@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  SoundsThree
 //
-//  Created by jgs on 5/21/17.
-//  Copyright © 2017 jgs. All rights reserved.
+//  Created by jgsSIPrep on 5/21/17.
+//  Copyright © 2017 jgsSIPrep. All rights reserved.
 //
 
 import UIKit
