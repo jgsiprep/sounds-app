@@ -14,6 +14,10 @@
 		81B2170C1ED1F47700D915EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81B2170A1ED1F47700D915EE /* LaunchScreen.storyboard */; };
 		81B217171ED1F47700D915EE /* SoundsThreeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B217161ED1F47700D915EE /* SoundsThreeTests.swift */; };
 		81B217221ED1F47700D915EE /* SoundsThreeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B217211ED1F47700D915EE /* SoundsThreeUITests.swift */; };
+		81B217321ED1F62900D915EE /* rain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 81B2172F1ED1F62900D915EE /* rain.mp3 */; };
+		81B217331ED1F62900D915EE /* thunder.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 81B217301ED1F62900D915EE /* thunder.mp3 */; };
+		81B217341ED1F62900D915EE /* wind.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 81B217311ED1F62900D915EE /* wind.mp3 */; };
+		81B217361ED2024700D915EE /* Surfing & Kiteboarding.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 81B217351ED2024700D915EE /* Surfing & Kiteboarding.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +51,10 @@
 		81B2171D1ED1F47700D915EE /* SoundsThreeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SoundsThreeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		81B217211ED1F47700D915EE /* SoundsThreeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsThreeUITests.swift; sourceTree = "<group>"; };
 		81B217231ED1F47700D915EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81B2172F1ED1F62900D915EE /* rain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = rain.mp3; path = "../../SOUNDS FOR BUTTONS/rain.mp3"; sourceTree = "<group>"; };
+		81B217301ED1F62900D915EE /* thunder.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = thunder.mp3; path = "../../SOUNDS FOR BUTTONS/thunder.mp3"; sourceTree = "<group>"; };
+		81B217311ED1F62900D915EE /* wind.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = wind.mp3; path = "../../SOUNDS FOR BUTTONS/wind.mp3"; sourceTree = "<group>"; };
+		81B217351ED2024700D915EE /* Surfing & Kiteboarding.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Surfing & Kiteboarding.ttf"; path = "../../FONTS/surfing_and_kiteboarding/Surfing & Kiteboarding.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +108,10 @@
 				81B217011ED1F47700D915EE /* AppDelegate.swift */,
 				81B217031ED1F47700D915EE /* ViewController.swift */,
 				81B217051ED1F47700D915EE /* Main.storyboard */,
+				81B217351ED2024700D915EE /* Surfing & Kiteboarding.ttf */,
+				81B2172F1ED1F62900D915EE /* rain.mp3 */,
+				81B217301ED1F62900D915EE /* thunder.mp3 */,
+				81B217311ED1F62900D915EE /* wind.mp3 */,
 				81B217081ED1F47700D915EE /* Assets.xcassets */,
 				81B2170A1ED1F47700D915EE /* LaunchScreen.storyboard */,
 				81B2170D1ED1F47700D915EE /* Info.plist */,
@@ -232,6 +244,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81B217321ED1F62900D915EE /* rain.mp3 in Resources */,
+				81B217361ED2024700D915EE /* Surfing & Kiteboarding.ttf in Resources */,
+				81B217331ED1F62900D915EE /* thunder.mp3 in Resources */,
+				81B217341ED1F62900D915EE /* wind.mp3 in Resources */,
 				81B2170C1ED1F47700D915EE /* LaunchScreen.storyboard in Resources */,
 				81B217091ED1F47700D915EE /* Assets.xcassets in Resources */,
 				81B217071ED1F47700D915EE /* Main.storyboard in Resources */,
